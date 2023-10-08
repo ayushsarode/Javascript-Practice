@@ -62,7 +62,7 @@ If you have questions, suggestions, or feedback, feel free to open an [`issue`](
  <a name="license"></a>
    
 ## License
-This repository is available under the [MIT License](./LICENSE).
+This repository is available under the [MIT License](./LICENSE.md).
 
 
 <a name="author"></a>
