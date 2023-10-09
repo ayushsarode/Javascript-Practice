@@ -19,8 +19,9 @@ Let's collaborate to acquire knowledge through meaningful initiatives!
 1. [Introduction to Javascript](#intro)
 2. [Contribution Guidelines](#guidelines)
 3. [Feedback](#feedback)
-4. [Author](#author)
-5. [Contributors](#contributors)
+4. [License](#license)
+5. [Author](#author)
+6. [Contributors](#contributors)
 
  
 <a name="intro"></a>
@@ -56,6 +57,12 @@ Kindly check out the [`CONTRIBUTING.md`](./CONTRIBUTING.MD) file for intructions
 ## 🌐 Feedback
 
 If you have questions, suggestions, or feedback, feel free to open an [`issue`](https://github.com/ayushsarode/Javascript-Practice/issues) or initiate discussions.
+
+
+ <a name="license"></a>
+   
+## License
+This repository is available under the [MIT License](./LICENSE.md).
 
 
 <a name="author"></a>
