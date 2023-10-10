@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Request Animation Frame</title>
+    <style>
+        body {
+            overflow: hidden;
+        }
+
+        button {
+            padding: 10px;
+            border: none;
+            background-color: #e287ff;
+            border-radius: 10px;
+            box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
+            cursor: pointer;
+            font-weight: 600;
+        }
+
+        #box {
+            height: 100px;
+            width: 100px;
+            background-color: #e287ff;
+        }
+    </style>
+</head>
+<body>
+    <button id="btn-1">Animate with setInterval - Start</button>
+    <button id="btn-2">Animate with requestAnimationFrame - Start</button>
+    <p id="box"></p>
+    
+    <script src="script.js"></script>
+</body>
+</html>
